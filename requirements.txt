@@ -7,7 +7,7 @@ rich==12.6.0
 beautifultable==1.1.0
 beautifulsoup4==4.11.1
 alive-progress==2.4.1
-protobuf==4.21.9
+protobuf==6.33.5
 autoslot==2021.10.1
 humanize==4.4.0
 inflection==0.5.1
